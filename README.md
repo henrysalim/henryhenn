@@ -1,7 +1,3 @@
-Absolutely! Here's a **more engaging, clearer, and catchier** version of your GitHub README intro. It combines professionalism with personality, highlights your passion, and gives it a clean, confident vibe that makes people want to connect or explore your work:
-
----
-
 # 👋 Hey there! I'm Henry Salim
 
 > 🚀 A passionate **Fullstack Developer in the making** | 🎓 2nd-year **Computer Science student** @ Multimedia Nusantara University
